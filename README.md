@@ -1,0 +1,1 @@
+# winegard-sky-scan
