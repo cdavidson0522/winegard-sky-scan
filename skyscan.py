@@ -280,9 +280,11 @@ class SkyScan:
 #
 # Performs main logic
 #
-# TODO
-#
-# --------------------------------------------------------
+# This method parses the supplied arguments, connects to the
+# Winegard satellite dish, displays the heatmap, and performs
+# the scan over the region of interest. Once the scan is
+# complete, the scan data is saved and the connection with the
+# Winegard satellite dish is closed.
 #
 if __name__ == "__main__":
 

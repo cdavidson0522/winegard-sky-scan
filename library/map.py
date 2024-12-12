@@ -12,7 +12,9 @@ NUM_X_TICKS = 5
 NUM_Y_TICKS = 3
 
 #
-#
+# This class implements a heatmap to display satellite signal
+# strength data in real-time as the map is constructed. Data
+# points can also be overlayed on top of the satellite data.
 #
 class Map:
 
