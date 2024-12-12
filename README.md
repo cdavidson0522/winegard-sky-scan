@@ -155,3 +155,8 @@ to 65 degrees.
 4) In the rotator control dialog, select the rotator you just added
 and click Engage. When ready, select the target satellite and click
 Track.
+
+## Acknowledgements
+
+This project inspired by the saveitforparts YouTube channel:
+[https://www.youtube.com/@saveitforparts](https://www.youtube.com/@saveitforparts)

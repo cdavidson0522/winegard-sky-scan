@@ -356,9 +356,10 @@ class Rotator:
 #
 # Performs main logic
 #
-# TODO
-#
-# --------------------------------------------------------
+# This method parses the supplied arguments, listens for a
+# connection from the rotator controller, processes incoming
+# rotator commands, and closes the connection once the controller
+# disconnects.
 #
 if __name__ == "__main__":
 
